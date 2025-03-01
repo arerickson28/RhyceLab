@@ -1,0 +1,8 @@
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: coral;
+    padding: 10px;
+    border: solid;
+    border-width: 3px;
+    border-color: teal;
+}
